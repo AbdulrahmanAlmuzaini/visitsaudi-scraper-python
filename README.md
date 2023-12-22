@@ -7,7 +7,7 @@
 
 ## Description
 
-This Python script was used to gather data and feed it to `itinerary generation model` employed in this repository **[DarbAI-API-Endpoint](https://github.com/MohammmedAb/DarbAI-API-Endpoint)**, created by **[MohammmedAb](https://github.com/MohammmedAb/)**. The script is designed to scrape JSON responses from VisitSaudi's API, with a specific focus on retrieving data about 6 points of interest for each of the 13 reagions in Saudi Arabia:
+This Python script was used to gather data and feed it to `itinerary generation model` employed in this repository **[DarbAI-API-Endpoint](https://github.com/MohammmedAb/DarbAI-API-Endpoint)**, created by **[MohammmedAb](https://github.com/MohammmedAb/)**. The `DarbAI-API-Endpoint` is also integrated with another repository, **[Darb-AI](https://github.com/MOHAMMAD-ALSUBAIE/Darb-AI)**, managed by **[MOHAMMAD-ALSUBAIE](https://github.com/MOHAMMAD-ALSUBAIE/)**. The script is designed to scrape JSON responses from VisitSaudi's API, with a specific focus on retrieving data about 6 points of interest for each of the 13 reagions in Saudi Arabia:
 
 POI:
 
