@@ -45,7 +45,9 @@ you need to install latest stable Python version from the offical website
 requests via ternimal
 
 ```python -m pip install requests``` 
+
 or 
+
 ```pip install requests```
 
 ## Setup the Project
